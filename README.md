@@ -50,3 +50,16 @@ The project contains:
 - Supply Chain Analytics
 - SQL Querying
 - Inventory Analysis
+
+## Sample Insights
+
+- Delhi warehouse has the highest inventory (250 units).
+- Mumbai warehouse stores 200 units of inventory.
+- Chennai warehouse has the lowest inventory (50 units).
+- Phone demand exceeded available inventory, indicating potential stockout risk.
+- SQL joins were used to combine inventory and demand data for analysis.
+
+## Author
+
+Harshit Kumar
+M.Tech IEOR, IIT Delhi
